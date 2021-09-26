@@ -1,0 +1,5 @@
+main: dev.vortezz.noclip.NoClip
+name: NoClip
+version: 0.0.0
+commands:
+  noclip:
